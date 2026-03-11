@@ -49,7 +49,7 @@ if (isset($_POST['login'])) {
 
   <!-- Container dan Background -->
   <div class="relative flex min-h-dvh items-center justify-center 
-  bg-[url('mg/bg.png')] bg-cover bg-center">
+  bg-[url('img/bg.png')] bg-cover bg-center">
 
     <!-- Overlay gelap -->
     <div class="absolute inset-0 bg-black/70"></div>
